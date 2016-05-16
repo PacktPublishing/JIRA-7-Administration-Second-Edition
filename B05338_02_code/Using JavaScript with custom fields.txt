@@ -1,0 +1,1 @@
+<script>AJS.$('#customfield_10103 option[value="-1"]').remove();</script>

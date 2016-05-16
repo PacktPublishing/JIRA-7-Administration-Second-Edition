@@ -1,0 +1,5 @@
+<templatemapping id="10002">
+    <name>Issue Rejected</name>
+    <template>issuerejected.vm</template>
+    <templatetype>issueevent</templatetype>
+</templatemapping>

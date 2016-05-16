@@ -1,0 +1,1 @@
+All 3 email template files (issuerejected-html.vm, issuerejected-text.vm, issuerejected-subject.vm) should all be named issuerejected.vm, and be placed into their own folders.

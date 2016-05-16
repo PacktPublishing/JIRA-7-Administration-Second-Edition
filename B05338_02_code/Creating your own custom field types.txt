@@ -1,0 +1,1 @@
+import com.atlassian.jira.ComponentManagerimport com.atlassian.jira.issue.comments.CommentManagerdef commentManager = ComponentManager.getComponentInstanceOfType(CommentManager.class)def numberOfComments = commentManager.getComments(issue).size()return numberOfComments ? numberOfComments as Double : null
