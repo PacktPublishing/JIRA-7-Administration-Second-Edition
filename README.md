@@ -12,8 +12,8 @@ Keep JIRA_INSTALL and JIRA_HOME directories separate which makes the maintenance
 
 Related JIRA Books and Videos
 
-* [Building a Responsive Website with Bootstrap [Video]] (https://www.packtpub.com/web-development/building-responsive-website-bootstrap-video?utm_source=github&utm_medium=repository&utm_campaign=9781782164982)
-* [Bootstrap Site Blueprints] (https://www.packtpub.com/web-development/bootstrap-site-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781782164524)
-* [Learning Bootstrap] (https://www.packtpub.com/web-development/learning-bootstrap?utm_source=github&utm_medium=repository&utm_campaign=9781782161844)
+* [JIRA 6.x Administration Cookbook] (https://www.packtpub.com/application-development/jira-6x-administration-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781782176862)
+* [JIRA 6 Essentials [Video]] (https://www.packtpub.com/application-development/jira-6-essentials-video?utm_source=github&utm_medium=repository&utm_campaign=9781849689243)
+* [JIRA 5.x Development Cookbook] (https://www.packtpub.com/application-development/jira-5x-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781782169086)
 
 
